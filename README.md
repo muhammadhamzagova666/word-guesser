@@ -22,7 +22,7 @@
    git clone https://github.com/muhammadhamzagova666/Word-Guesser.git
    ```
 3. **Build the Project:**  
-   Open the project in your preferred development environment (e.g., Visual Studio Code) and assemble the `Word Guesser.txt` source file using MASM.
+   Open the project in your preferred development environment (e.g., Visual Studio Code) and assemble the `Word Guesser.asm` source file using MASM.
 
 ## Usage
 1. Run the assembled executable.  
